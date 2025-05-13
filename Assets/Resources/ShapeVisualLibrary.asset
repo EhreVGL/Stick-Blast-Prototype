@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2a977dfa0a92844ab809ad8fe08f6f9, type: 3}
+  m_Name: ShapeVisualLibrary
+  m_EditorClassIdentifier: 
+  visuals:
+  - shapeName: I
+    rotationSprites:
+    - {fileID: -6767352930074001762, guid: 60a35825abb3b754b8dec1b0ba085545, type: 3}
+    - {fileID: 1075887497222561299, guid: 2a0336ede5f11af45817919e9657393f, type: 3}
+    - {fileID: 3547148083887630069, guid: 06a6a9283cc09744394dada223d943b8, type: 3}
+    - {fileID: -2162929527319228660, guid: 02037bf9e9cf36c46af214025d0baf7d, type: 3}
+  - shapeName: L
+    rotationSprites:
+    - {fileID: -3398149054751529162, guid: fb2b678b7459cc040a67ad810fb56df9, type: 3}
+    - {fileID: -2269001880094274543, guid: f2ef5033fdeb98d41a83a62d711b768a, type: 3}
+    - {fileID: 8443762428773392274, guid: c38ae77c231d69f4589b4e4ba0153ed7, type: 3}
+    - {fileID: -2733384293213354581, guid: aa4ce59e6e356cf4bb4af73e49dd9359, type: 3}
+  - shapeName: U
+    rotationSprites:
+    - {fileID: 2383712297595058173, guid: ce1a180176e4a30429ba532b915147fc, type: 3}
+    - {fileID: 4015019924234305030, guid: 7624aae0d2bf741429d07fe45e3f7ded, type: 3}
+    - {fileID: 5520796508234705691, guid: 0abb222383da5f749a6d7eaea35f87e5, type: 3}
+    - {fileID: -2850866026460694955, guid: 0bd2df475f6b90d41a5d3fd501c7dff2, type: 3}

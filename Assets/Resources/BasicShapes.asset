@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4e4a530ee5f5164591bafdf6f4cba74, type: 3}
+  m_Name: BasicShapes
+  m_EditorClassIdentifier: 
+  shapes:
+  - shapeName: I
+    rotations:
+    - horizontalEdges:
+      - values: 0100
+      - values: 0000
+      verticalEdges:
+      - values: 0000
+      - values: 0000
+    - horizontalEdges:
+      - values: 0000
+      - values: 0000
+      verticalEdges:
+      - values: 0100
+      - values: 0000
+    - horizontalEdges:
+      - values: 0100
+      - values: 0000
+      verticalEdges:
+      - values: 0000
+      - values: 0000
+    - horizontalEdges:
+      - values: 0000
+      - values: 0000
+      verticalEdges:
+      - values: 0100
+      - values: 0000
+  - shapeName: L
+    rotations:
+    - horizontalEdges:
+      - values: 0100
+      - values: 0000
+      verticalEdges:
+      - values: 0100
+      - values: 0000
+    - horizontalEdges:
+      - values: 0100
+      - values: 0000
+      verticalEdges:
+      - values: 0001
+      - values: 0000
+    - horizontalEdges:
+      - values: 0000
+      - values: 0100
+      verticalEdges:
+      - values: 0001
+      - values: 0000
+    - horizontalEdges:
+      - values: 0000
+      - values: 0100
+      verticalEdges:
+      - values: 0100
+      - values: 0000
+  - shapeName: U
+    rotations:
+    - horizontalEdges:
+      - values: 0100
+      - values: 0000
+      verticalEdges:
+      - values: 0101
+      - values: 0000
+    - horizontalEdges:
+      - values: 0100
+      - values: 0100
+      verticalEdges:
+      - values: 0001
+      - values: 0000
+    - horizontalEdges:
+      - values: 0000
+      - values: 0100
+      verticalEdges:
+      - values: 0101
+      - values: 0000
+    - horizontalEdges:
+      - values: 0100
+      - values: 0100
+      verticalEdges:
+      - values: 0100
+      - values: 0000
