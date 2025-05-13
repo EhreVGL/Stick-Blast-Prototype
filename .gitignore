@@ -17,7 +17,6 @@ UserSettings/
 *.tmp
 *.sdf
 *.sln.docstates
-*.apk
 *.unitypackage
 
 # Crash Reports
